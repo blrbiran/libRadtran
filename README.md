@@ -50,6 +50,7 @@ libRadtran
     make
     make check
 ###Python package
+(推荐使用Anaconda，可以简化不同包之间的依赖关系)
 
     sudo apt-get install python-scipy
     sudo apt-get install python-numpy
